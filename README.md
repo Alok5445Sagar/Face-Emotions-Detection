@@ -1,5 +1,5 @@
 # Face-Emotions-Detection
-Libraries used: cv2, Deepface, Numpy.
+Using OpenCV, Deepface, Numpy libraries.
 Using this we can detect emotions of people in a input video/using live webcam and write the output emotions on the top left corner of each frames of the input video.
 
 
